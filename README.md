@@ -131,7 +131,7 @@ This boots a Cassandra instance defined in `docker-compose.yml`.
 ## Acknowledgements
 
 Inspired by the Udacity Data Engineering Projects:
-[Data Modeling with Postgres](https://github.com/san089/Udacity-Data-Engineering-Projects/tree/master/Data_Modeling_with_Postgres)
+[Data Modeling with Apache Cassandra](https://github.com/san089/Udacity-Data-Engineering-Projects/tree/master/Data_Modeling_with_Apache_Cassandra)
 
 ---
 
