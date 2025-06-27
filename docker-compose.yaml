@@ -1,0 +1,23 @@
+version: "3.9"
+
+services:
+  cassandra:
+    image: cassandra:latest
+    container_name: cassandra
+    ports:
+      - "9042:9042"  # CQL port
+    volumes:
+      - cassandra_data:/var/lib/cassandra  # Persist data across restarts
+    networks:
+      - cassandra_network
+    healthcheck:
+      test: ["CMD-SHELL", "nodetool status"]  # Check if Cassandra is up
+      interval: 30s
+      timeout: 5s
+      retries: 5
+
+volumes:
+  cassandra_data:  # Named volume for persistent data
+
+networks:
+  cassandra_network: # Network to allow containers to communicate

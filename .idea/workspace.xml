@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="da2d9970-61de-476e-98bc-b61a3c41c35d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/data_modeling_with_cassandra.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/data_visualization.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/events.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/raw/event_data/2018-11-01-events.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/raw/event_data/2018-11-02-events.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/raw/event_data/2018-11-03-events.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/raw/event_data/2018-11-04-events.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/raw/event_data/2018-11-05-events.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/raw/event_data/2018-11-06-events.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/raw/event_data/2018-11-07-events.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/raw/event_data/2018-11-08-events.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/raw/event_data/2018-11-09-events.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/raw/event_data/2018-11-10-events.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/raw/event_data/2018-11-11-events.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/raw/event_data/2018-11-12-events.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/raw/event_data/2018-11-13-events.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/raw/event_data/2018-11-14-events.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/raw/event_data/2018-11-15-events.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/raw/event_data/2018-11-16-events.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/raw/event_data/2018-11-17-events.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/raw/event_data/2018-11-18-events.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/raw/event_data/2018-11-19-events.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/raw/event_data/2018-11-20-events.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/raw/event_data/2018-11-21-events.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/raw/event_data/2018-11-22-events.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/raw/event_data/2018-11-23-events.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/raw/event_data/2018-11-24-events.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/raw/event_data/2018-11-25-events.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/raw/event_data/2018-11-26-events.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/raw/event_data/2018-11-27-events.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/raw/event_data/2018-11-28-events.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/raw/event_data/2018-11-29-events.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/raw/event_data/2018-11-30-events.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docker-compose.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/notebooks/notebook_1.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2z2iWmDtEvJyhrs4exRZnCkmcLZ" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/pczub/PycharmProjects/data_engineering_projects/data_modeling_with_cassandra"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "cassandra"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\pczub\PycharmProjects\data_engineering_projects\data_modeling_with_cassandra\notebooks" />
+      <recent name="C:\Users\pczub\PycharmProjects\data_engineering_projects\data_modeling_with_cassandra" />
+      <recent name="C:\Users\pczub\PycharmProjects\data_engineering_projects\data_modeling_with_cassandra\data" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\pczub\PycharmProjects\data_engineering_projects\data_modeling_with_cassandra\data\raw" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-53e2683a6804-9cdd278e9d02-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-251.26094.141" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="da2d9970-61de-476e-98bc-b61a3c41c35d" name="Changes" comment="" />
+      <created>1750935603092</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1750935603092</updated>
+    </task>
+    <servers />
+  </component>
+</project>
