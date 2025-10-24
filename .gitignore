@@ -429,3 +429,7 @@ terraform.rc
 Footer
 
 dashboard_files/
+/data/events.csv
+/requirements.txt.backup
+/IMPLEMENTATION_SUMMARY.md
+/COMPLETION_REPORT.md

@@ -1,0 +1,26 @@
+# Cassandra ETL Pipeline Configuration
+
+# Cassandra Database Configuration
+cassandra:
+  hosts:
+    - "127.0.0.1"
+  port: 9042
+  keyspace: "sparkify"
+  replication:
+    class: "SimpleStrategy"
+    replication_factor: 1
+
+# Data Paths
+data:
+  raw_folder: "data/raw/event_data"
+  processed_file: "data/events.csv"
+
+# ETL Settings
+etl:
+  batch_size: 1000
+  skip_empty_artist: true
+
+# Logging Configuration
+logging:
+  level: "INFO"
+  file: "logs/pipeline.log"

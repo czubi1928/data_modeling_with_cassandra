@@ -1,0 +1,33 @@
+# Development Dependencies
+# Install with: pip install -r requirements-dev.txt
+
+# Include production dependencies
+-r requirements.txt
+
+# Testing Framework
+pytest==8.0.0
+pytest-cov==4.1.0
+pytest-mock==3.12.0
+pytest-asyncio==0.23.3
+
+# Code Quality & Linting
+black==25.1.0
+ruff==0.12.1
+mypy==1.8.0
+isort==5.13.2
+
+# Type Stubs
+types-pyyaml==6.0.12.12
+
+# Jupyter & Notebooks
+ipykernel==6.29.5
+ipython==9.3.0
+jupyter==1.0.0
+notebook==7.0.6
+
+# Pre-commit Hooks
+pre-commit==3.6.0
+
+# Documentation
+mkdocs==1.5.3
+mkdocs-material==9.5.3
