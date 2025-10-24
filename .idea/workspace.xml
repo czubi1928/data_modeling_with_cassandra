@@ -5,40 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="da2d9970-61de-476e-98bc-b61a3c41c35d" name="Changes" comment="[1.0.0] - 2025-01-24">
-      <change afterPath="$PROJECT_DIR$/.pre-commit-config.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CHANGELOG.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Makefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/QUICKSTART.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/config.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyproject.toml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pytest.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements-dev.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scripts/run_pipeline.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/db/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/db/connection.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/db/schema.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/etl/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/etl/extract.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/etl/load.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/etl/pipeline.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/etl/transform.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/utils/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/utils/config.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/utils/logger.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/conftest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/test_extract.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/test_load.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/test_transform.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/data_modeling_with_cassandra.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/data_modeling_with_cassandra.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/events.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/notebooks/notebook_1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/notebooks/notebook.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/CHANGELOG.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -139,7 +107,15 @@
       <option name="project" value="LOCAL" />
       <updated>1761297051646</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="[1.0.0] - 2025-01-24">
+      <option name="closed" value="true" />
+      <created>1761300732189</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1761300732189</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

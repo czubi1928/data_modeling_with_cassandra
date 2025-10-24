@@ -99,7 +99,6 @@ Event data arrives in 30+ daily CSV files scattered across directories. The syst
 
 ## Queries & Use Cases
 
-## Queries
 
 We cover three core use cases:
 

@@ -5,7 +5,7 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [1.0.0] - 2025-01-24
+## [1.0.0] - 2025-10-24
 
 ### Added
 - **Modular Python Architecture**: Refactored monolithic notebook into reusable modules
@@ -51,7 +51,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - **Query 3 Bug**: Fixed notebook cell that was executing `select_query_2` instead of `select_query_3`
 - **Requirements File**: Regenerated clean requirements.txt without encoding issues
 
-## [0.1.0] - 2025-01-20
+## [0.1.0] - 2025-10-20
 
 ### Added
 - Initial project structure
